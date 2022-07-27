@@ -13,11 +13,11 @@ The client would like to know the current number of retirement-age employees by 
 - The Retiring by Title table above shows the current number of retirement-age employees: 72,458.
 - The title with the largest amount of future vacancies is Senior Engineer, followed closely by Senior Staff.
 - The title with the least amount of future vacancies is Manager, with only two positions needing to be filled.
-- The [mentorship eligibility file](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) shows that there are a total of 1,549 current employees eligible for the mentorship program, and provides information on the individual employees.
+- The [mentorship_eligibility.csv file](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) shows that there are a total of 1,549 current employees eligible for the mentorship program, and provides information on the individual employees.
 
 ## Summary
 1. How many roles will need to be filled as the “silver tsunami” begins to make an impact?
-   - A total of 72,458 positions will need to be filled in the upcoming years. The unique_titles.csv file provides further detail on individual employees that are eligible for retirement. The Retiring by Title table above breaks down the number of future vacancies by title. The Retiring by Department  table below gives the number of future vacancies by department. The department with the most vacancies needing to be filled is Development, while the Finance department will have the least amount of future vacancies. 
+   - A total of 72,458 positions will need to be filled in the upcoming years. The [unique_titles.csv file](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) provides further detail on individual employees that are eligible for retirement. The Retiring by Title table above breaks down the number of future vacancies by title. The Retiring by Department table below gives the number of future vacancies by department. The department with the most vacancies needing to be filled is Development, while the Finance department will have the least amount of future vacancies. The client should use this information to plan for future departmental changes and address the areas of greatest need.
 	
 ![Retiring by Department](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Images/retiring_by_dept.png)
 
