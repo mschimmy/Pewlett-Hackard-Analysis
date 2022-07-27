@@ -13,7 +13,7 @@ The client would like to know the current number of retirement-age employees by 
 - The Retiring by Title table above shows the current number of retirement-age employees: 72,458.
 - The title with the largest amount of future vacancies is Senior Engineer, followed closely by Senior Staff.
 - The title with the least amount of future vacancies is Manager, with only two positions needing to be filled.
-- The mentorship_eligibility.csv file shows that there are a total of 1,549 current employees eligible for the mentorship program, and provides information on the individual employees.
+- The [mentorship eligibility file](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) shows that there are a total of 1,549 current employees eligible for the mentorship program, and provides information on the individual employees.
 
 ## Summary
 1. How many roles will need to be filled as the “silver tsunami” begins to make an impact?
