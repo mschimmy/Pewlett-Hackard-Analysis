@@ -9,6 +9,7 @@ The client would like to know the current number of retirement-age employees by 
 ## Results
 
 ![Retiring by Title](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Images/retiring_by_title.png)
+Retiring by Title
 
 - The Retiring by Title table above shows the current number of retirement-age employees: 72,458.
 - The title with the largest amount of future vacancies is Senior Engineer, followed closely by Senior Staff.
@@ -20,8 +21,10 @@ The client would like to know the current number of retirement-age employees by 
    - A total of 72,458 positions will need to be filled in the upcoming years. The [unique_titles.csv file](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) provides further detail on individual employees that are eligible for retirement. The Retiring by Title table above breaks down the number of future vacancies by title. The Retiring by Department table below gives the number of future vacancies by department. The department with the most vacancies needing to be filled is Development, while the Finance department will have the least amount of future vacancies. The client should use this information to plan for future departmental changes and address the areas of greatest need.
 	
 ![Retiring by Department](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Images/retiring_by_dept.png)
+Retiring by Department
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
    - There are a total of 1,549 qualified, retirement-ready employees that are eligible for the mentorship program, 2.14% of the total number of employees ready for retirement (aka the total number of future vacancies). The Mentors by Title table below gives the number of mentorship-eligible employees by title. When compared to the Retiring by Title table, the most immediate concern is that there are no employees eligible to train the Manager title, this should be investigated by the client. Generally, the number of mentorship-eligible employees would be insufficient to successfully mentor the next generation of Pewlett Hackard employees, as each mentor would have to personally train close to 47 new hires (this is an overall ratio and is not broken down by titles or department). It is suggested that the client expand their mentorship eligibility requirements, or look for solutions outside their organization to develop and optimize their staff development and training programs.
 
 ![Mentors by Title](https://github.com/mschimmy/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.png)
+Mentors by Title
